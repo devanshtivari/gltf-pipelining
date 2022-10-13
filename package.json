@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "gltf-pipeline": "^3.0.5"
+  }
+}
